@@ -134,7 +134,7 @@ elif [[ $OSTYPE == "darwin"* ]]; then
       "key_equivalent" = "@^v";
     };
     "org.vim.MacVim - MacVim/New MacVim Buffer With Selection - openSelection" = {
-      "key_equivalent" = "@^v";
+      "key_equivalent" = "\033";
     };
   }'
 

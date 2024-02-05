@@ -25,7 +25,7 @@ __Linux:__
 #### Install
 
 ```bash
-curl -fsSL https://raw.github.com/cknadler/vim-anywhere/master/install | bash
+curl -fsSL https://raw.github.com/tycronk20/vim-anywhere/master/install | bash
 ```
 
 #### Update

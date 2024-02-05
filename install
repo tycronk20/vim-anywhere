@@ -46,7 +46,7 @@ require_one_installed() {
 }
 
 AW_PATH=$HOME/.vim-anywhere
-AW_URL='https://github.com/Strus/vim-anywhere'
+AW_URL='https://github.com/tycronk20/vim-anywhere'
 
 ###
 # pre-installation checks
